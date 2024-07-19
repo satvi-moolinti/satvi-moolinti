@@ -26,9 +26,9 @@
    <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=satvi-moolinti&theme=juicyfresh&no-frame=true&no-bg=false&margin-w=4"alt="GitHub Trophies" /></p>
     <p align="center>"<img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical" alt="GitHub Quotes" /></p>
  </div>
-
+ [Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
  <center> 
-  [Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+ 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=satvi-moolinti&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" width="300" height="150" />
  </center>
   
