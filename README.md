@@ -1,7 +1,7 @@
 
 <img src="https://github.com/satvi-moolinti/satvi-moolinti/blob/cdb44bdf00a3be54de5172948a90a46202c20fb3/images/helloworld%20(20231016100538).png">
 
-#About Me
+<h1>About Me</h1>
 
 <p>Welcome To My Page, I am a Student from India. Addicted to Programming. </p><br><p>Forgive me! My Keyboard is broken thats why I am stopping here.</p>
 
