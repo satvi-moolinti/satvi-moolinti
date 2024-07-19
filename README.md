@@ -1,9 +1,6 @@
-
-<img src="https://github.com/satvi-moolinti/satvi-moolinti/blob/cdb44bdf00a3be54de5172948a90a46202c20fb3/images/helloworld%20(20231016100538).png">
-
 <h1>About Me</h1>
 
-<p>Welcome To My Page, I am a Student from India. Addicted to Programming. </p><br><p>Forgive me! My Keyboard is broken thats why I am stopping here.</p>
+<p>Hello there! 👋 I'm Moolinti Satvi Reddy, currently pursuing my Bachelor's in Computer Science and Engineering. I have a deep passion for coding and technology, with a keen interest in software development and problem-solving. </p>
 
 [![Linkedin Badge](https://img.shields.io/badge/-satvi-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jlim/)]([https://www.linkedin.com/in//](https://www.linkedin.com/in/moolinti-satvi-reddy-405aba206/))
 [![Gmail Badge](https://img.shields.io/badge/-msarithasatvi-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:msarithasatvi@gmail.com)](mailto:msarithasatvi@gmail.com)
