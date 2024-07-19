@@ -6,7 +6,7 @@
 <p>Welcome To My Page, I am a Student from India. Addicted to Programming. </p><br><p>Forgive me! My Keyboard is broken thats why I am stopping here.</p>
 
 [![Linkedin Badge](https://img.shields.io/badge/-satvi-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jlim/)]([https://www.linkedin.com/in//](https://www.linkedin.com/in/moolinti-satvi-reddy-405aba206/))
-[![Gmail Badge](https://img.shields.io/badge/-nandakishorep212-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:msarithasatvi@gmail.com)](mailto:msarithasatvi@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-msarithasatvi-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:msarithasatvi@gmail.com)](mailto:msarithasatvi@gmail.com)
 
 <hr>
 <h2>Got my Hands on 🫳</h2><br><hr><br><p align="center">
